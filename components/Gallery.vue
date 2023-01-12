@@ -38,19 +38,19 @@ export default {
       images: [
         {
           id: 1,
-          src: '_nuxt/static/image1.jpg',
+          src: './static/image1.jpg',
           alt: 'Gambar 1',
           caption: 'Rapat Pengelola'
         },
         {
           id: 2,
-          src: '_nuxt/static/image2.jpg',
+          src: './static/image2.jpg',
           alt: 'Gambar 2',
           caption: 'Gambar 2'
         },
         {
           id: 3,
-          src: '/assets/image3.jpg',
+          src: './static/image3.jpg',
           alt: 'Gambar 3',
           caption: 'Gambar 3'
         },
