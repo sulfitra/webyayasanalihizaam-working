@@ -23,9 +23,12 @@
     text-align: center;
   }
   .gallery img {
+    width: 400;
+    height: 400;
     /* Style lainnya */
   }
   .gallery .caption {
+    text-align: center;
     /* Style lainnya */
   }
 </style>
@@ -38,19 +41,19 @@ export default {
       images: [
         {
           id: 1,
-          src: '../static/image1.jpg',
+          src: "_nuxt/static/image1.jpg",
           alt: 'Gambar 1',
           caption: 'Rapat Pengelola'
         },
         {
           id: 2,
-          src: '../static/image2.jpg',
+          src: '_nuxt/static/image2.jpg',
           alt: 'Gambar 2',
           caption: 'Gambar 2'
         },
         {
           id: 3,
-          src: '../static/image3.jpg',
+          src: '_nuxt/static/image3.jpg',
           alt: 'Gambar 3',
           caption: 'Gambar 3'
         },
