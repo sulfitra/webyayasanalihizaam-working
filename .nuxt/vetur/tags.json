@@ -1,0 +1,29 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Ajakan": {
+    "description": "Auto imported from components/Ajakan.vue"
+  },
+  "Alamat": {
+    "description": "Auto imported from components/Alamat.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Program": {
+    "description": "Auto imported from components/Program.vue"
+  }
+}
