@@ -21,7 +21,6 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
-  dev: process.env.NODE_ENV === 'DEV',
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -41,9 +40,9 @@ export default {
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
+  target: "static",
+  ssr: false,
   build: {
-    target: 'static',
-    ssr: false,
     babel: {
       compact: true
     }
