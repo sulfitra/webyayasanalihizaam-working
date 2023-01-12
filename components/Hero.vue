@@ -1,15 +1,29 @@
 <template>
   <section class="hero">
-    <img src="~/static/hero-image.jpg" alt="Hero Image" class="hero-image">
-    <div class="container">
+    <div class="myc">
       <h1 class="hero-title">Yayasan Ali Hizaam</h1>
-      <p class="hero-description">Menyediakan pelatihan dan pendidikan terbaik bagi siswa-siswi Indonesia
-      <nuxt-link to="/programs" class="btn btn-primary">Lihat Program Kami</nuxt-link></p>
+      <p class="hero-description">Menyediakan pelatihan dan pendidikan terbaik bagi siswa-siswi Indonesia</p>
+      <div>
+        <nuxt-link to="/programs" class="btn btn-primary">Lihat Program Kami</nuxt-link>
+      </div>
     </div>
   </section>
 </template>
 
 <style>
+  .hero{
+    background-image: url('~/static/hero-image.jpg');
+    padding: 20rem 0 10rem;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .myc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+  }
   .hero {
     position: relative;
   }
@@ -22,21 +36,12 @@
   .hero-title {
     font-size: 2.5rem;
     font-weight: 700;
-    margin-bottom: 1rem;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     color: cadetblue;
   }
   .hero-description {
     font-size: 1.5rem;
     font-weight: 400;
-    margin-bottom: 2rem;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    text-align: center;
     color: rgb(1, 41, 31);
   }
 </style>

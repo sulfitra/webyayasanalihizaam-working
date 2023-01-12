@@ -1,5 +1,12 @@
 [
   {
+    "name": "donasi",
+    "path": "/donasi",
+    "component": "F:\\\\repo\\\\webyayasanalihizaam\\\\pages\\\\donasi.vue",
+    "chunkName": "pages/donasi",
+    "_name": "_68763e56"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "F:\\\\repo\\\\webyayasanalihizaam\\\\pages\\\\index.vue",
