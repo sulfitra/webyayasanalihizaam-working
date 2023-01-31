@@ -4,7 +4,7 @@
       <h1 class="hero-title">Yayasan Ali Hizaam</h1>
       <p class="hero-description">Menyediakan pelatihan dan pendidikan terbaik bagi siswa-siswi Indonesia</p>
       <div>
-        <nuxt-link to="/programs" class="btn btn-primary">Lihat Program Kami</nuxt-link>
+        <nuxt-link to="#program" class="btn btn-primary">Lihat Program Kami</nuxt-link>
       </div>
     </div>
   </section>
@@ -12,7 +12,7 @@
 
 <style>
   .hero{
-    background-image: url('~/static/hero-image.jpg');
+    background-image: url('~static/hero-image.jpg');
     padding: 20rem 0 10rem;
 
     background-repeat: no-repeat;
