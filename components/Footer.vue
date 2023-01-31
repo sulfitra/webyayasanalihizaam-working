@@ -57,7 +57,7 @@
   .footer {
     background-color: #343a40;
     color: #fff;
-    padding: 60px 0;
+    padding: 60px 20px;
   }
 
   .footer h4 {
