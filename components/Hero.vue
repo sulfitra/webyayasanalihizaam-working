@@ -55,7 +55,8 @@
     padding: 20rem 4rem 10rem;
   }
   .hero-title {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    white-space: nowrap;
   }
   .hero-description {
     font-size: 1rem;
