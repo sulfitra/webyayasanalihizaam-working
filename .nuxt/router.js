@@ -4,8 +4,8 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _68763e56 = () => interopDefault(import('..\\pages\\donasi.vue' /* webpackChunkName: "pages/donasi" */))
-const _033881c0 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _bc67b602 = () => interopDefault(import('..\\pages\\donasi.vue' /* webpackChunkName: "pages/donasi" */))
+const _57a6a1f7 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -20,11 +20,11 @@ export const routerOptions = {
 
   routes: [{
     path: "/donasi",
-    component: _68763e56,
+    component: _bc67b602,
     name: "donasi"
   }, {
     path: "/",
-    component: _033881c0,
+    component: _57a6a1f7,
     name: "index"
   }],
 
