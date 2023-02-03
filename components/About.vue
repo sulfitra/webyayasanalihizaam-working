@@ -1,5 +1,5 @@
 <template>
-    <section class="tentang-kami">
+    <section id="about" class="tentang-kami">
       <div class="container">
         <h2 class="title">Tentang Kami</h2>
         <div class="row">

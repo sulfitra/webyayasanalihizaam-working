@@ -1,7 +1,13 @@
 <template>
-  <div>
+  <b-container>
     <nuxt-child />
-    <b-navbar toggleable="lg" type="light" variant="default">
+    <b-navbar
+      class="mx-auto"
+      fixed
+      toggleable="lg"
+      type="light"
+      variant="default"
+    >
       <b-navbar-brand href="#">
         <b-img fluid src="~/static/alihizaam.png" alt=""></b-img>
       </b-navbar-brand>
@@ -58,5 +64,5 @@
         </div>
       </div>
     </nav> -->
-  </div>
+  </b-container>
 </template>
