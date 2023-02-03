@@ -34,31 +34,6 @@
   </section>
 </template>
 
-<style>
-  /* Style untuk komponen Tentang Kami */
-  .tentang-kami {
-    /* Style lainnya */
-  }
-  .tentang-kami .row{
-    /* Style lainnya */
-    background-color: rgb(36, 177, 123);
-    padding: 20px;
-    color: wheat;
-  }
-  .tentang-kami .title {
-    /* Style lainnya */
-    padding: 50px 0;
-    text-align: center;
-  }
-  .tentang-kami .subtitle {
-    /* Style lainnya */
-  }
-  .tentang-kami .description {
-    /* Style lainnya */
-    
-  }
-</style>
-
 <script>
 export default {
   name: 'TentangKami'
