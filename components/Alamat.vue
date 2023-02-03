@@ -4,7 +4,10 @@
       <div class="row">
         <div class="col-lg-6">
           <h2>Kontak</h2>
-          <p>Alamat: Jl. Asal mula, Kecamatan Tamalantrea Kota Makassar</p>
+          <p>
+            Alamat: Jl. Asal mula, Kecamatan Tamalanrea, Kabupaten Tamalanrea,
+            Kota Makassar
+          </p>
           <p>Telepon: (123) 456-7890</p>
           <p>Email: info@alihizaam.org</p>
         </div>
