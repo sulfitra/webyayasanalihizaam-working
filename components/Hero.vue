@@ -6,7 +6,7 @@
         Menyediakan pelatihan dan pendidikan terbaik bagi siswa-siswi Indonesia
       </p>
       <div>
-        <nuxt-link to="#program" class="btn btn-primary"
+        <nuxt-link to="#program" class="btn btn-success"
           >Lihat Program Kami</nuxt-link
         >
       </div>
@@ -17,7 +17,7 @@
 <style>
 .hero {
   background-image: url("~static/hero-image.jpg");
-  padding: 20rem 0 10rem;
+  padding: 10rem 0 10rem;
 
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,7 +52,7 @@
 }
 @media screen and (max-width: 600px) {
   .hero {
-    padding: 20rem 4rem 10rem;
+    padding: 3rem 4rem 10rem;
   }
   .hero-title {
     font-size: 1.5rem;

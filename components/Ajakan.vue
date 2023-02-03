@@ -10,7 +10,7 @@
           <a
             href="https://api.whatsapp.com/send?phone=6282349756601"
             class="button is-primary is-large is-fullwidth"
-            >Berdonasi Sekarang</a
+            ><button class="btn btn-success">Berdonasi Sekarang</button></a
           >
         </div>
       </div>
