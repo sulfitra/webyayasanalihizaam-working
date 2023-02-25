@@ -3,14 +3,12 @@
     "name": "donasi",
     "path": "/donasi",
     "component": "D:\\\\My Files\\\\DesktopFiles\\\\Devs\\\\1ProjectWeb\\\\yayasan-alihizaam\\\\pages\\\\donasi.vue",
-    "chunkName": "pages/donasi",
-    "_name": "_bc67b602"
+    "chunkName": "pages/donasi"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\My Files\\\\DesktopFiles\\\\Devs\\\\1ProjectWeb\\\\yayasan-alihizaam\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_57a6a1f7"
+    "chunkName": "pages/index"
   }
 ]
