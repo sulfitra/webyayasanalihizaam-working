@@ -23,6 +23,9 @@
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
+  "Organization": {
+    "description": "Auto imported from components/Organization.vue"
+  },
   "Program": {
     "description": "Auto imported from components/Program.vue"
   }

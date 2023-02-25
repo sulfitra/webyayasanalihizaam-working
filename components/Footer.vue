@@ -17,7 +17,6 @@
             <li>
               <a href="#"> <i class="fab fa-twitter"></i> Twitter </a>
             </li>
-
             <li>
               <a href="#"> <i class="fab fa-instagram"></i> Instagram </a>
             </li>

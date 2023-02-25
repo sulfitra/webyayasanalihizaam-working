@@ -6,6 +6,7 @@ export { default as Gallery } from '../..\\components\\Gallery.vue'
 export { default as Hero } from '../..\\components\\Hero.vue'
 export { default as Navbar } from '../..\\components\\Navbar.vue'
 export { default as NuxtLogo } from '../..\\components\\NuxtLogo.vue'
+export { default as Organization } from '../..\\components\\Organization.vue'
 export { default as Program } from '../..\\components\\Program.vue'
 
 // nuxt/nuxt.js#8607

@@ -14,4 +14,5 @@ You can directly use them in pages and other components without the need to impo
 - `<Hero>` | `<hero>` (components/Hero.vue)
 - `<Navbar>` | `<navbar>` (components/Navbar.vue)
 - `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
+- `<Organization>` | `<organization>` (components/Organization.vue)
 - `<Program>` | `<program>` (components/Program.vue)
