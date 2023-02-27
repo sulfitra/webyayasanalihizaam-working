@@ -24,7 +24,7 @@
       </div>
       <div class="row">
         <div class="col-md-6 justify-content-center">
-          <h3 class="subtitle">Struktur Organisasi</h3>
+          <h3 class="subtitle"><a href="#Organization">Struktur Organisasi</a></h3>
           <p class="description">
             Yayasan Pendidikan Sosial Islam Ali Hizaam memiliki struktur organisasi yang terdiri dari Dewan Pembina, Dewan Pengurus, dan Departemen-departemen yang menangani kegiatan-kegiatan yayasan. Masing-masing departemen dipimpin oleh seorang ketua yang bertanggung jawab terhadap keberlangsungan dan kemajuan kegiatan-kegiatan di bawahnya.
           </p>
@@ -46,6 +46,10 @@
     /* Style lainnya */
     padding: 50px 0;
     text-align: center;
+  }
+  a, a:hover {
+    text-decoration: none;
+    color: wheat;
   }
 </style>
 

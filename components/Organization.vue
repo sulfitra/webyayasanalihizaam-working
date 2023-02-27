@@ -1,5 +1,5 @@
 <template>
-  <section class="programs" id="program">
+  <section class="programs" id="Organization">
     <b-container>
       <h2 class="text-center">Pengurus Yayasan Ali Hizaam</h2>
       <b-card-group columns class="flex">
